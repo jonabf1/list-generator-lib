@@ -1,0 +1,4 @@
+node_modules
+sonar-scanner.sh
+sonar-project.properties
+.scannerwork
